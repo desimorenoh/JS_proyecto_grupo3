@@ -9,7 +9,7 @@ function seleccionarCoder(listaDeCoders, position) {
 
 $(document).ready(function () {
 
-    let coderArray = ["Alexia", "Alisa", "Ana C.", "Anna G.", "Candy", "Carmen", "Desirée", "Faby", "Gabrielle", "Gràcia", "Helen", "Joana", "Judith", "Kristina", "Laura C.", "Laura M.", "Marisa", "Rosa", "Sandra", "Sara", "Sonia", "Tamara", "Valentina", "Yuliya"];
+    let coderArray = ["Alex", "Kevin", "Javi", "Edu", "Marta", "Luis", "Desi"];
     let namesAlreadyPicked = [];
     let buttonToChooseCoders = $('.buttonToChooseCoders');
     let restartButton = $('.restartButton');
